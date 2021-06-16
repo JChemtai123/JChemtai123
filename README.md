@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jackline Chemtai 
-- 👀 I’m interested in mechine learning and artificial inteligence
-- 🌱 I’m currently learning and experimenting with small personal projects e.g. the dog vision from Kaggle
-- 💞️ I’m looking to collaborate on this areas and enhance my knowledge and hands on ML
+- 👀 I’m interested in mechine learning and artificial intelligence
+- 🌱 I’m currently learning and experimenting with small personal projects e.g. the dog vision from Kaggle (notebook available here) 
+- 💞️ I’m looking to collaborate on this area and enhance my knowledge and hands on ML
 
 
 <!---
